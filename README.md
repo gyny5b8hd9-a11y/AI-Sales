@@ -114,12 +114,6 @@ vipthink-whatsapp-bot/
 
 ---
 
-## 借鉴项目
-
-- [b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template) — 4层防遗忘记忆系统、ICP动态打分、消息调度
-
----
-
 ## License
 
 MIT © VIPTHINK 港澳/海外 LP 团队
