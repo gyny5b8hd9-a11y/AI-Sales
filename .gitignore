@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# 虚拟环境
+venv/
+env/
+.env
+*.venv
+
+# 运行时数据
+.workbuddy/memory/parents/*.db
+.workbuddy/memory/parents/_daily_snapshot/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 密钥文件（不要提交真实密钥）
+.env
+config.local.json
+
+# 临时文件
+_test_*.py
+tmp/
+temp/
